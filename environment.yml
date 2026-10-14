@@ -1,0 +1,10 @@
+name: hospital_env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - notebook
+  - matplotlib
+prefix: C:\Users\hp\anaconda3\envs\hospital_env
